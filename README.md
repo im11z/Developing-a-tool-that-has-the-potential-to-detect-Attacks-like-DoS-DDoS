@@ -1,4 +1,4 @@
-# Developing-a-tool-that-has-the-potential-to-detect-Attacks-like-DoS-DDoS called ShieldGuard
+# SheidGuard-is-a-tool-that-has-the-potential-to-detect-Attacks-like-DoS-DDoS
 ShieldGuard is a real-time DoS and DDoS detection tool built using Python, Scapy, and Flask. 
 It captures live network traffic, analyzes packet behavior, identifies abnormal traffic spikes,
 and classifies attack conditions. The system displays live status, traffic statistics, and attacker 
